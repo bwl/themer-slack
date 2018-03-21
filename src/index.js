@@ -8,7 +8,7 @@ export const render = colors => Object.entries(colors).map(
       colorSet.shade7, // Active Item Text
       colorSet.shade2, // Hover Item
       colorSet.shade7, // Text Color
-      colorSet.accent2, // Active Presence
+      colorSet.accent4, // Active Presence
       colorSet.accent6, // Mention Badge
     ].join(',')),
   })
